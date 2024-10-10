@@ -1,5 +1,15 @@
 # viem
 
+## 2.21.22
+
+### Patch Changes
+
+- [#2838](https://github.com/wevm/viem/pull/2838) [`f0695c5c`](https://github.com/wevm/viem/commit/f0695c5c8c9fb29b78a7ca8c07b176191e550e39) Thanks [@qi-0826](https://github.com/qi-0826)! - Added Superposition chain.
+
+- [#2837](https://github.com/wevm/viem/pull/2837) [`2f46c00e`](https://github.com/wevm/viem/commit/2f46c00e62c90f406da666b3544c427867135a84) Thanks [@qi-0826](https://github.com/qi-0826)! - Added Electroneum chain.
+
+- [`95b316cb`](https://github.com/wevm/viem/commit/95b316cb29375c9041ec5a92558cc975f41e9ba3) Thanks [@jxom](https://github.com/jxom)! - Added `stateOverride` to `estimateUserOperationGas` & `prepareUserOperation`.
+
 ## 2.21.21
 
 ### Patch Changes
